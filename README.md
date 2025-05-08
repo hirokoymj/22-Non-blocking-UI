@@ -18,7 +18,7 @@ function App() {
       for (let i = 0; i < 25000; i++) {
         temp_items.push(e.target.value);
       }
-å      setItems(temp_items);
+      setItems(temp_items);
     });
 
   return (
